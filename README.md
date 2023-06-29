@@ -8,7 +8,7 @@ The purpose of this project was to create a timed coding quiz with multiple choi
 * [Questions](#questions)
 
 ## Usage 
-The coding quiz webpage can be found via Git Hub [URL](). Please note this is only a test page. 
+The coding quiz webpage can be found via Git Hub [URL](git@github.com:AlizaSharma/web-apis.git). Please note this is only a test page. 
 
 See example below of expected outcome:
 
