@@ -4,6 +4,8 @@ var introPage = document.querySelector(".intro-page")
 
 var questionsPage = document.querySelector(".questions-page")
 
+var timerEl = document.querySelector("#time")
+
 startButton.addEventListener("click",function () {
     introPage.classList.add("hide") 
     questionsPage.classList.remove("hide") 
@@ -37,4 +39,5 @@ var questions = [
 }
     
 ]
+
 
